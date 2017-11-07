@@ -6,6 +6,6 @@ Repository contains:
 - Intel x86,
 - Intel x64
 
-version of the algorithm.
+versions of the algorithm.
 
 (C) 2015 Marcin Waszak
